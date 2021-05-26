@@ -6,6 +6,10 @@ authors = ["talahajeer <tala.hajeer@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.2.4"
+jupyterlab = "^3.0.16"
+seaborn = "^0.11.1"
+ipykernel = "^5.5.5"
 
 [tool.poetry.dev-dependencies]
 
